@@ -1,0 +1,43 @@
+.al{
+     text-align: justify;
+
+}
+.align{
+        text-align: right ;
+        border: 2px solid black;
+        margin: 15px 20px 20px 850px;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-right: 5px;
+}
+.head{
+    background-color: rgba(16, 243, 243, 0.637);
+    background-image: url("header.jpg");
+}
+body{
+    background-color: skyblue;
+    background-image: url("bak.jpg");
+    background-position: center;
+    
+}
+.pi{
+     padding: 20px 20px 20px 20px ;
+     background-color: cornflowerblue;
+    
+     }
+     
+.bottom{
+         
+         text-align: justify;
+     
+       
+       
+}
+.im{
+    
+     height: 400px;
+     width: 400px;
+     float: right;
+     padding-left: 10px;
+ 
+}
